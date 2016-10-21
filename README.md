@@ -1,5 +1,4 @@
-<img src='https://cloud.githubusercontent.com/assets/6773678/19589215/efaf3592-97a5-11e6-8ce8-ca0ef8ea38c4.jpg' width='150'>
-
+# 네이버 나눔고딕 코딩글꼴
 ## 다운로드 
    - [Ver 2.5 (2016.10.24 배포)](https://github.com/naver/nanumfont/releases/tag/VER2.5)
    - 이전 버전들은 [Release 링크](https://github.com/naver/nanumfont/releases)에 있습니다. 
