@@ -1,4 +1,6 @@
 # 네이버 나눔고딕 코딩글꼴
+![total release](https://img.shields.io/github/downloads/naver/nanumfont/total.svg)
+
 ### 다운로드 
    - [Ver 2.5 (2016.10.24 배포)](https://github.com/naver/nanumfont/releases/download/VER2.5/NanumGothicCoding-2.5.zip)
    - 이전 버전들은 [Release 링크](https://github.com/naver/nanumfont/releases)에 있습니다. 
